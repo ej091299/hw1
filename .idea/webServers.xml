@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2363a8c4-075d-4944-bcf1-c05e7c8e3a0f" name="afs" url="http://web.njit.edu/~ej77">
+        <fileTransfer host="afs15.njit.edu" port="22" rootFolder="/afs/cad.njit.edu/u/e/j/ej77/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
